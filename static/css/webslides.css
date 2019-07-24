@@ -2813,12 +2813,6 @@ button:disabled:hover {
     [class*='badge-'] + [class*='badge-'] {
       margin-top: .8rem; } }
 
-.badge-ios {
-  background-image: url("../images/bt-appstore.png"); }
-
-.badge-android {
-  background-image: url("../images/bt-playstore.png"); }
-
 /*=========================================
 15. Longform
 =========================================== */
